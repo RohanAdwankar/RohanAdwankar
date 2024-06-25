@@ -12,7 +12,7 @@ In the past, I have developed:
 
 📆 Capy, A MERN Stack App for Event Planning and Registration
 
-🔬 [Research Papers and Presentations]([url](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ))
+🔬 [Research Papers and Presentations]([url](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)) : https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ
 
 
-[Please Reach out!!]([url](https://www.linkedin.com/in/rohanadwankar/))
+[Please Reach out!!]([url](https://www.linkedin.com/in/rohanadwankar/)) : https://www.linkedin.com/in/rohanadwankar/
