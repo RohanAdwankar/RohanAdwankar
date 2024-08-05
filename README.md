@@ -8,7 +8,7 @@ In Progress:
 
 Completed:
 
-🏫  Official UCLA Sponsored Chatbot for Physics Classes: [UCLA Chat](https://uclachat.com/home)
+🏫  Official UCLA Sponsored Chatbot for UCLA Physics Classes: [UCLA Chat](https://uclachat.com/home)
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
