@@ -12,8 +12,8 @@ Completed:
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
-📆 Capy, A MERN Stack App for Event Planning and Registration
+📆 Capy, A MERN Stack App for Event Planning and Registration: [Repo](https://github.com/RohanAdwankar/capy)
 
 🔬 [Research Papers and Presentations]([url](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)) : [Google Scholar](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)
 
-[Please Reach out!!]([url](https://www.linkedin.com/in/rohanadwankar/)) : https://www.linkedin.com/in/rohanadwankar/
+Please reach out through my [LinkedIn](linkedin.com/in/rohanadwankar/)!
