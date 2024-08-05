@@ -9,7 +9,7 @@
 ## Completed:
 *Only including projects wherein I have among the top 3 most contributions.*
 
-🏫  Official UCLA Sponsored Chatbot for UCLA Physics Classes: [UCLA Chat](https://uclachat.com/home)
+🏫  Official UCLA Sponsored Chatbot for UCLA Physics Classes: [See Homepage here, but AI access is locked to UCLA Students](https://uclachat.com/home)
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
