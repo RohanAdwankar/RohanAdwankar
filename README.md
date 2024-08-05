@@ -2,7 +2,7 @@
 
 ## In Progress:
 
-🤖 Generate AI Database Modification Web-App for Lawrence Berkeley National Laboratory
+🤖 Generative AI Database Modification Web-App for Lawrence Berkeley National Laboratory
 
 🔍 AI WebApp for Security Incident Response Data Intake (SEC Filings) for ZeroDay Law
 
