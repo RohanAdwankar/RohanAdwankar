@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-In Progress:
+## In Progress:
 
 🤖 Generate AI Database Modification Web-App for Lawrence Berkeley National Laboratory
 
 🔍 AI WebApp for Security Incident Response Data Intake (SEC Filings) for ZeroDay Law
 
-Completed:
+## Completed:
+*Only including projects wherein I have among the top 3 most contributions.*
 
 🏫  Official UCLA Sponsored Chatbot for UCLA Physics Classes: [UCLA Chat](https://uclachat.com/home)
 
