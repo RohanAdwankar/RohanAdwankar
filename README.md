@@ -16,5 +16,3 @@
 📆 Capy, A MERN Stack App for Event Planning and Registration: [Repo](https://github.com/RohanAdwankar/capy)
 
 🔬 [Research Papers and Presentations]([url](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)) : [Google Scholar](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)
-
-Please reach out through my [LinkedIn](linkedin.com/in/rohanadwankar/)!
