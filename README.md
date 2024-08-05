@@ -4,7 +4,7 @@
 
 🤖 Generative AI Database Modification Web-App for Lawrence Berkeley National Laboratory
 
-🔍 AI WebApp for Security Incident Response Data Intake (SEC Filings) for ZeroDay Law
+🔍 AI Tool for Security Incident Response Data Intake (SEC Filings) for ZeroDay Law
 
 ## Completed:
 *Only including projects wherein I have among the top 3 most contributions.*
