@@ -8,9 +8,7 @@ In Progress:
 
 Completed:
 
-🏫  [LLM Chatbot]([url](https://uclachat.com/home)) for Physics Education at the University of California, Los Angeles
-
-[UCLA Chat](https://uclachat.com/home)
+🏫  Official UCLA Sponsored Chatbot for Physics Classes: [UCLA Chat](https://uclachat.com/home)
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
