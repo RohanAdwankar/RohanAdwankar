@@ -7,6 +7,7 @@
 🧑‍🔬 AI Biofuel Reaction Monitoring for Lawrence Berkeley National Laboratory
 
 ## Completed
+🐼 share-df: Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
 
 🔍 AI Tool for Security Incident Response Data Intake (eg. SEC Filings) for ZeroDay Law
 
