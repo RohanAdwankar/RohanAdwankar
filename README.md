@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## In Progress
 
 🤖 Generative AI Database Modification Web-App for Lawrence Berkeley National Laboratory
@@ -7,14 +5,14 @@
 🧑‍🔬 AI Biofuel Reaction Monitoring for Lawrence Berkeley National Laboratory
 
 ## Completed
-🐼 share-df: Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
+🐼 [share-df](https://github.com/RohanAdwankar/share-df): Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
 
-🔍 AI Tool for Security Incident Response Data Intake (eg. SEC Filings) for ZeroDay Law
-
-🏫  Official UCLA Sponsored Chatbot for UCLA Physics Classes: See [Homepage](https://uclachat.com/home) here, but AI access is locked to UCLA Students.
+🏫 [Bruin Bot](https://uclachat.com/home): Official UCLA Funded Chatbot supporting educational assistants, data plotting, and admin tools.
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
-📆 Capy, A MERN Stack App for Event Planning and Registration: [Repo](https://github.com/RohanAdwankar/capy)
+🔍 AI Tool for Security Incident Response Data Intake (eg. SEC Filings) for ZeroDay Law
 
-🔬 [Research Papers and Presentations]([url](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)) : [Google Scholar](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ)
+📆 [Capy](https://github.com/RohanAdwankar/capy): A MERN Stack App for Event Planning and Registration
+
+🔬 [Google Scholar](https://scholar.google.com/citations?hl=en&user=zHfkhl0AAAAJ): Past research paper and presentations.
