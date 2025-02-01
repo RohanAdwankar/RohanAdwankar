@@ -1,7 +1,5 @@
 ## In Progress
 
-🤖 Generative AI Database Modification Web-App for Lawrence Berkeley National Laboratory
-
 🧑‍🔬 AI Biofuel Reaction Monitoring for Lawrence Berkeley National Laboratory
 
 ## Completed
@@ -12,6 +10,8 @@
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
 🔍 AI Tool for Security Incident Response Data Intake (eg. SEC Filings) for ZeroDay Law
+
+🤖 Generative AI Database Modification Web-App for Lawrence Berkeley National Laboratory
 
 📆 [Capy](https://github.com/RohanAdwankar/capy): A MERN Stack App for Event Planning and Registration
 
