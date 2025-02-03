@@ -5,7 +5,7 @@
 ## Completed
 🐼 [share-df](https://github.com/RohanAdwankar/share-df): Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
 
-🏫 [Bruin Bot](https://uclachat.com/home): Official UCLA Funded Chatbot supporting educational assistants, data plotting, and admin tools.
+🏫 Bruin Bot: Official UCLA Funded Chatbot supporting educational assistants, data plotting, and admin tools.
 
 🧑‍⚖️ Augmented Legal Compliance on Large-scale Data Breaches with Large Vision-Language Models for ZeroDay Law
 
