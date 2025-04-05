@@ -2,8 +2,6 @@
 
 🧑‍🔬 AI Biofuel Reaction Monitoring for Lawrence Berkeley National Laboratory
 
-🔦 [Open Sonar](https://github.com/open-sonar/open-sonar): Go Package for an open source clone of the Sonar web search LLM API by Perplexity
-
 ## Completed
 
 🐼 [share-df](https://github.com/RohanAdwankar/share-df): Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
