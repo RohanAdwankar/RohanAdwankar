@@ -8,7 +8,9 @@
 
 🐼 [share-df](https://github.com/RohanAdwankar/share-df): Python Package to Share/Edit Pandas DF with 1 command web interface <img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads">
 
-📖 [Active Read](https://active-read.vercel.app/): Next.js Webapp for Active Reading - 1st Place Hackathon Winner
+🛡️ [Guardian](https://github.com/RohanAdwankar/guardian):An open-source ethical telemetry and governance platform for AI applications - Hackathon Winner!
+
+📖 [Active Read](https://active-read.vercel.app/): Next.js Webapp for Active Reading - 1st Place Hackathon Winner!
 
 🏫 Bruin Bot: Official UCLA Funded Chatbot supporting educational assistants, data plotting, and admin tools.
 
