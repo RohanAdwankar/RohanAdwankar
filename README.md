@@ -1,3 +1,5 @@
+<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanadwankar&layout=compact" height="220px" alt="Most used languages"></a>
+
 ## In Progress
 
 🧑‍🔬 AI Biofuel Reaction Monitoring for Lawrence Berkeley National Laboratory
