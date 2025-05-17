@@ -2,4 +2,4 @@
 <p align="center"><img width="30" src="https://github.githubassets.com/images/mona-loading-default.gif"></p>
 <p align="center"><b>Incoming Intern @ NVIDIA, Student @ UCLA, Research @ LBNL </b></p>
 <p align="center">I built <a href="https://github.com/RohanAdwankar/share-df">share-df</a> for collaborating on python dataframes&nbsp;&nbsp;<img src="https://static.pepy.tech/badge/share-df" alt="PyPI Downloads"></p>
-<p align="center">I'm building <a href="https://github.com/RohanAdwankar/arcbranch">arcbranch</a> for parallelizing agentic code generation&nbsp;&nbsp;<img alt="NPM Version" src="https://img.shields.io/npm/v/arcbranch"></p>
+<p align="center"> i use <a href="https://github.com/RohanAdwankar/nvim"> neovim </a> btw </p>
