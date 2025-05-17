@@ -19,6 +19,8 @@
 
 👾 [ArcBranch](https://github.com/RohanAdwankar/arcbranch): Tool for parallelizing agentic code generation. <img alt="NPM Version" src="https://img.shields.io/npm/v/arcbranch">
 
+🧮 [Pure SQL Task Manager](https://github.com/RohanAdwankar/pureSQLCLI): Fully functional CLI written in pure SQL with burndown chart, progress bar, and more!
+
 📆 [Capy](https://github.com/RohanAdwankar/capy): A MERN Stack App for Event Planning and Registration
 
 ## Work/Research Projects
