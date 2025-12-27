@@ -1,0 +1,93 @@
+<svg width="320" height="195" viewBox="0 0 320 195" xmlns="http://www.w3.org/2000/svg" role="img">
+    <title>Most Used Languages</title>
+    <style>
+        .header { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+        .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+        .percent { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    </style>
+    <rect x="0" y="0" width="320" height="195" rx="4.5" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
+    <g transform="translate(15, 15)">
+        <text x="0" y="10" class="header">Most Used Languages</text>
+    
+        <g transform="translate(0, 30)">
+            <circle cx="5" cy="6" r="4" fill="#dea584"/>
+            <text x="15" y="10" class="lang-name">Rust</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">44.7%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="60.333320888920625" height="4" rx="2" fill="#dea584"/>
+        </g>
+        
+        <g transform="translate(0, 60)">
+            <circle cx="5" cy="6" r="4" fill="#3178c6"/>
+            <text x="15" y="10" class="lang-name">TypeScript</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">26.2%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="35.37691150237066" height="4" rx="2" fill="#3178c6"/>
+        </g>
+        
+        <g transform="translate(0, 90)">
+            <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
+            <text x="15" y="10" class="lang-name">JavaScript</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">15.4%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="20.748239250868" height="4" rx="2" fill="#f1e05a"/>
+        </g>
+        
+        <g transform="translate(0, 120)">
+            <circle cx="5" cy="6" r="4" fill="#3572A5"/>
+            <text x="15" y="10" class="lang-name">Python</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">6.0%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="8.141770536933123" height="4" rx="2" fill="#3572A5"/>
+        </g>
+        
+        <g transform="translate(0, 150)">
+            <circle cx="5" cy="6" r="4" fill="#00ADD8"/>
+            <text x="15" y="10" class="lang-name">Go</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">3.6%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="4.813406852759332" height="4" rx="2" fill="#00ADD8"/>
+        </g>
+        
+        <g transform="translate(155.0, 30)">
+            <circle cx="5" cy="6" r="4" fill="#89e051"/>
+            <text x="15" y="10" class="lang-name">Shell</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">1.6%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="2.2206621617892686" height="4" rx="2" fill="#89e051"/>
+        </g>
+        
+        <g transform="translate(155.0, 60)">
+            <circle cx="5" cy="6" r="4" fill="#F05138"/>
+            <text x="15" y="10" class="lang-name">Swift</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">1.2%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="2" height="4" rx="2" fill="#F05138"/>
+        </g>
+        
+        <g transform="translate(155.0, 90)">
+            <circle cx="5" cy="6" r="4" fill="#336790"/>
+            <text x="15" y="10" class="lang-name">PLpgSQL</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">0.7%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="2" height="4" rx="2" fill="#336790"/>
+        </g>
+        
+        <g transform="translate(155.0, 120)">
+            <circle cx="5" cy="6" r="4" fill="#000080"/>
+            <text x="15" y="10" class="lang-name">Lua</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">0.3%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="2" height="4" rx="2" fill="#000080"/>
+        </g>
+        
+        <g transform="translate(155.0, 150)">
+            <circle cx="5" cy="6" r="4" fill="#5e5086"/>
+            <text x="15" y="10" class="lang-name">Haskell</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">0.3%</text>
+            <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
+            <rect x="0" y="16" width="2" height="4" rx="2" fill="#5e5086"/>
+        </g>
+        
+    </g>
+</svg>

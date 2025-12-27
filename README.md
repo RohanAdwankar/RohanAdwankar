@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAdwankar&hide=html,css&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
-
+<img align="right" src="https://raw.githubusercontent.com/RohanAdwankar/RohanAdwankar/refs/heads/main/top-langs.svg" height="220px" alt="Most used languages">
 <p align="center">
   <img width="30" src="https://github.githubassets.com/images/mona-loading-default.gif">
   <img width="30" src="https://github.com/user-attachments/assets/c1f00de6-5fa9-4eca-addf-155394f6e5aa">
