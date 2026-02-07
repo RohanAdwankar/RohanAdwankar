@@ -12,55 +12,55 @@
         <g transform="translate(0, 30)">
             <circle cx="5" cy="6" r="4" fill="#dea584"/>
             <text x="15" y="10" class="lang-name">Rust</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">44.7%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">47.6%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="60.333320888920625" height="4" rx="2" fill="#dea584"/>
+            <rect x="0" y="16" width="64.23258978538588" height="4" rx="2" fill="#dea584"/>
         </g>
         
         <g transform="translate(0, 60)">
             <circle cx="5" cy="6" r="4" fill="#3178c6"/>
             <text x="15" y="10" class="lang-name">TypeScript</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">26.2%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">25.5%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="35.37691150237066" height="4" rx="2" fill="#3178c6"/>
+            <rect x="0" y="16" width="34.37550799577288" height="4" rx="2" fill="#3178c6"/>
         </g>
         
         <g transform="translate(0, 90)">
             <circle cx="5" cy="6" r="4" fill="#f1e05a"/>
             <text x="15" y="10" class="lang-name">JavaScript</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">15.4%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">14.1%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="20.748239250868" height="4" rx="2" fill="#f1e05a"/>
+            <rect x="0" y="16" width="19.01672846507047" height="4" rx="2" fill="#f1e05a"/>
         </g>
         
         <g transform="translate(0, 120)">
             <circle cx="5" cy="6" r="4" fill="#3572A5"/>
             <text x="15" y="10" class="lang-name">Python</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">6.0%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">5.8%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="8.141770536933123" height="4" rx="2" fill="#3572A5"/>
+            <rect x="0" y="16" width="7.843310919944082" height="4" rx="2" fill="#3572A5"/>
         </g>
         
         <g transform="translate(0, 150)">
             <circle cx="5" cy="6" r="4" fill="#00ADD8"/>
             <text x="15" y="10" class="lang-name">Go</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">3.6%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">3.3%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="4.813406852759332" height="4" rx="2" fill="#00ADD8"/>
+            <rect x="0" y="16" width="4.411711760408985" height="4" rx="2" fill="#00ADD8"/>
         </g>
         
         <g transform="translate(155.0, 30)">
             <circle cx="5" cy="6" r="4" fill="#89e051"/>
             <text x="15" y="10" class="lang-name">Shell</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">1.6%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">1.5%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
-            <rect x="0" y="16" width="2.2206621617892686" height="4" rx="2" fill="#89e051"/>
+            <rect x="0" y="16" width="2.0353403887819654" height="4" rx="2" fill="#89e051"/>
         </g>
         
         <g transform="translate(155.0, 60)">
             <circle cx="5" cy="6" r="4" fill="#F05138"/>
             <text x="15" y="10" class="lang-name">Swift</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">1.2%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">1.1%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
             <rect x="0" y="16" width="2" height="4" rx="2" fill="#F05138"/>
         </g>
@@ -84,7 +84,7 @@
         <g transform="translate(155.0, 150)">
             <circle cx="5" cy="6" r="4" fill="#5e5086"/>
             <text x="15" y="10" class="lang-name">Haskell</text>
-            <text x="135.0" y="10" class="percent" text-anchor="end">0.3%</text>
+            <text x="135.0" y="10" class="percent" text-anchor="end">0.2%</text>
             <rect x="0" y="16" width="135.0" height="4" rx="2" fill="#30363d"/>
             <rect x="0" y="16" width="2" height="4" rx="2" fill="#5e5086"/>
         </g>
