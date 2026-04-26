@@ -1,1 +1,1 @@
-<p align="center"> i created <a href="https://github.com/RohanAdwankar/oxdraw">oxdraw</a> and <a href="https://rohanadwankar.github.io/posts/open-source.html">other things</a>. interested in devtools.  i use <a href="https://github.com/RohanAdwankar/nvim"> neovim</a> btw.</p>
+I created <a href="https://github.com/RohanAdwankar/oxdraw">oxdraw</a> and <a href="https://rohanadwankar.github.io/posts/open-source.html">other things</a>. Interested in devtools. I use <a href="https://github.com/RohanAdwankar/nvim"> neovim</a> btw.
